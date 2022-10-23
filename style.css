@@ -1,0 +1,92 @@
+.mybg-primary{
+    background-color: #00001A;
+}
+.mybg-secundary{
+    background-color: #CB6B5F;
+}
+.mybg-tertiary{
+    background-color: #EBAB51;
+}
+
+.color-primary{
+    color:#00001A
+}
+.color-secundary{
+    color: #CB6B5F;
+}
+.ctertiary{
+    color: #EBAB51;
+}
+
+/*Navbar*/
+
+
+/*Artículos */
+
+.articulos{
+    color: white;
+    padding: 30px 25px;
+}
+.articulos h2{
+    color: #EBAB51;
+    font-weight: 700;
+}
+.articulos a{
+    text-decoration: none;
+    color: white;
+}
+.articulos a h4{
+    font-size: 22px;
+    font-weight: 700;
+}
+.articulos a h4:hover{
+    color: #EBAB51;
+}
+.articulos p{
+    color: #86858D;
+    line-height: 25px;
+}
+
+/*Anuncios */
+.panel .anuncios h2{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #00001A;
+}
+.descripcion p{
+    color: #5e5d61;
+}
+.miboton{
+    background-color: #00001A;
+    color: white;
+    border: none;
+    border-radius: 0;
+    width: 200px     ;
+    padding: 15px;
+
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.miboton:hover{
+    background-color: #EBAB51;
+}
+.notasdepie .informacion h4{
+    color: #bdbbc8;
+    font-weight: 700;
+}
+.notasdepie .informacion p{
+    margin: 0;
+    font-weight: 400;
+    color: #5e5d61;
+}
+.notasdepie .informacion a{
+    text-decoration: none;
+    color: #00001A;
+    font-weight: 700;
+}
+.notasdepie .informacion a:hover{
+    color: #CB6B5F;
+}
+
